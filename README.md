@@ -68,7 +68,10 @@ module jk_ff (j, k, clk, rst, q);
   end
 
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+Developed by:Y.Nitheesh
+
+RegisterNumber:24011476
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
